@@ -24,7 +24,7 @@ Steps: a. npm i gh-pages
        and
        "scripts": {//...
           "predeploy": "npm run build",
-          "deploy": "gh-pages -d build",
+          "deploy": "gh-pages -d build"
         }  
         c. npm run deploy  
 
